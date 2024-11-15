@@ -5,7 +5,6 @@
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
 ## DESIGN STEPS:
-![alt text](<Screenshot 2024-11-11 144326.png>)
 ### Step 1: 
 HTML content creation.
 
@@ -32,7 +31,7 @@ content = """
         <h1 align="center">Device Specifications  (DHANUSH KUMAR   [24901013])  
             <ol type="1" start="1">
                 <li align="left">   Device Name    :  DhanushPC</li>
-                <li align="left">   Processor      :  13th Gen Intel(R) Core(TM) i5-1335U   1.30 GHz</li>
+                <li align="left">   Processor      :  13 th Gen Intel(R) Core(TM) i5-1335U   1.30 GHz</li>
                 <li align="left">   Installed RAM  :  16.0 GB (15.7 GB usable)</li>
                 <li align="left">   Device ID      :  15EEA3B2-7EF5-4DEC-903D-577382C3C005</li>
                 <li align="left">   Product ID     :  00342-42708-92761-AAOEM</li>
@@ -65,7 +64,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-11-11 144258.png>)
+
+![alt text](<Screenshot 2024-11-11 144326-1.png>) ![alt text](<Screenshot 2024-11-11 144258-1.png>)
+
 
 
 ## RESULT:

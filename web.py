@@ -1,5 +1,4 @@
-from http.server import HTTPServer, BaseHTTPRequestHandler
-content = """
+from http.server import HTTPServer, BaseHTTPRequestHand
 <html>
     <title>
         Thalapathy web
